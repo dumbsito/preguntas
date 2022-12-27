@@ -1,0 +1,11 @@
+li{
+    cursor: pointer;
+}
+.incorrect{
+    color: rgb(224, 107, 107);
+    font-size: 20px;
+}
+.correct{
+    color: rgb(47, 202, 94);
+    font-size: 20px;
+}
